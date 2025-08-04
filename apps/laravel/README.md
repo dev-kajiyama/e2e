@@ -1,11 +1,5 @@
 # Laravel Application
 
-This directory is reserved for a Laravel application inside the monorepo.
+This directory contains a minimal Laravel skeleton.
 
-To initialize the project, run:
-
-```
-composer create-project laravel/laravel .
-```
-
-This command requires internet access to fetch Laravel and its dependencies.
+Run `composer install` to install dependencies when network access is available.
